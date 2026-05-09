@@ -49,8 +49,8 @@ int main()
 {
     int choice =0;
 
-    int iInput1 ;
-    int iInput2;
+    int iInput1 = 0;
+    int iInput2 = 0;
     
     cout<<"Enter first Number: ";
     cin>>iInput1;
